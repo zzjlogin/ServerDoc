@@ -1,0 +1,11 @@
+WARNING: html_static_path entry '_static' does not exist
+D:\doc\mydoc_Server\source\Server\linux-server\dns\index.rst:7: WARNING: Server/linux-server/dns/01introduce is already assigned section numbers (nested numbered toctree?)
+D:\doc\mydoc_Server\source\Server\linux-server\dns\index.rst:7: WARNING: Server/linux-server/dns/02bindinstall is already assigned section numbers (nested numbered toctree?)
+D:\doc\mydoc_Server\source\Server\linux-server\dns\index.rst:7: WARNING: Server/linux-server/dns/03bindconfig-one is already assigned section numbers (nested numbered toctree?)
+D:\doc\mydoc_Server\source\Server\linux-server\dns\index.rst:7: WARNING: Server/linux-server/dns/04bindconfig-two is already assigned section numbers (nested numbered toctree?)
+D:\doc\mydoc_Server\source\Server\linux-server\dns\index.rst:7: WARNING: Server/linux-server/dns/05bindconfig-others is already assigned section numbers (nested numbered toctree?)
+D:\doc\mydoc_Server\source\Server\linux-server\dns\index.rst:7: WARNING: Server/linux-server/dns/06bindconfig is already assigned section numbers (nested numbered toctree?)
+D:\doc\mydoc_Server\source\Server\linux-server\dns\index.rst:7: WARNING: Server/linux-server/dns/07aliyunDNS is already assigned section numbers (nested numbered toctree?)
+D:\doc\mydoc_Server\source\Server\linux-server\dns\index.rst:7: WARNING: Server/linux-server/dns/10bind-upgrade is already assigned section numbers (nested numbered toctree?)
+D:\doc\mydoc_Server\source\Server\linux-server\dns\index.rst:7: WARNING: Server/linux-server/dns/99bind-faq is already assigned section numbers (nested numbered toctree?)
+D:\doc\mydoc_Server\source\Server\linux-server\monitor\zabbix-install\0023zabbix-sourceinstall.rst:46: WARNING: undefined label: 'linux-faq-yuminstallerr'
